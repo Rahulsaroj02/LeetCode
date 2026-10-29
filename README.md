@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Rahulsaroj02/LeetCode/tree/master/0018-4sum) |
+| [0041-first-missing-positive](https://github.com/Rahulsaroj02/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Rahulsaroj02/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahulsaroj02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Rahulsaroj02/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahulsaroj02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
