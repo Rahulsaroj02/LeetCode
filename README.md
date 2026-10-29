@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Rahulsaroj02/LeetCode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Rahulsaroj02/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahulsaroj02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -15,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Rahulsaroj02/LeetCode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rahulsaroj02/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahulsaroj02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -47,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahulsaroj02/LeetCode/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
