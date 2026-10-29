@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rahulsaroj02/LeetCode/tree/master/0009-palindrome-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Rahulsaroj02/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Rahulsaroj02/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Rahulsaroj02/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
