@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rahulsaroj02/LeetCode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Rahulsaroj02/LeetCode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Rahulsaroj02/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Rahulsaroj02/LeetCode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Rahulsaroj02/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Rahulsaroj02/LeetCode/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/Rahulsaroj02/LeetCode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Rahulsaroj02/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Linked List
 |  |
