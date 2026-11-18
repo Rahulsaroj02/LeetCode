@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rahulsaroj02/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahulsaroj02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Rahulsaroj02/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Rahulsaroj02/LeetCode/tree/master/0143-reorder-list) |
+## Simulation
+|  |
+| ------- |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Rahulsaroj02/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 <!---LeetCode Topics End-->
