@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Rahulsaroj02/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahulsaroj02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahulsaroj02/LeetCode/tree/master/0020-valid-parentheses) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Rahulsaroj02/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Stack
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
