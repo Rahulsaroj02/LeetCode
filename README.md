@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahulsaroj02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Rahulsaroj02/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0905-sort-array-by-parity](https://github.com/Rahulsaroj02/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahulsaroj02/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Rahulsaroj02/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Two Pointers
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Rahulsaroj02/LeetCode/tree/master/0018-4sum) |
 | [0143-reorder-list](https://github.com/Rahulsaroj02/LeetCode/tree/master/0143-reorder-list) |
+| [0905-sort-array-by-parity](https://github.com/Rahulsaroj02/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Rahulsaroj02/LeetCode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
+| [0905-sort-array-by-parity](https://github.com/Rahulsaroj02/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
