@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rahulsaroj02/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Rahulsaroj02/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Rahulsaroj02/LeetCode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Rahulsaroj02/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahulsaroj02/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Rahulsaroj02/LeetCode/tree/master/0067-add-binary) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Rahulsaroj02/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Stack
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rahulsaroj02/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Rahulsaroj02/LeetCode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Rahulsaroj02/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rahulsaroj02/LeetCode/tree/master/0067-add-binary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Rahulsaroj02/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Pigeonhole Principle
 |  |
