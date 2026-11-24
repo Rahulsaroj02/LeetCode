@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Rahulsaroj02/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Rahulsaroj02/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahulsaroj02/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rahulsaroj02/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Rahulsaroj02/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rahulsaroj02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Rahulsaroj02/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahulsaroj02/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rahulsaroj02/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rahulsaroj02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahulsaroj02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Rahulsaroj02/LeetCode/tree/master/0067-add-binary) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rahulsaroj02/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rahulsaroj02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Rahulsaroj02/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rahulsaroj02/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rahulsaroj02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
