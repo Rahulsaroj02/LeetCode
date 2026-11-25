@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rahulsaroj02/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Rahulsaroj02/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahulsaroj02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rahulsaroj02/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Rahulsaroj02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Rahulsaroj02/LeetCode/tree/master/0067-add-binary) |
 | [0796-rotate-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/0796-rotate-string) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rahulsaroj02/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
