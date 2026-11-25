@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahulsaroj02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Rahulsaroj02/LeetCode/tree/master/0067-add-binary) |
+| [0796-rotate-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/0796-rotate-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rahulsaroj02/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rahulsaroj02/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahulsaroj02/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Rahulsaroj02/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
