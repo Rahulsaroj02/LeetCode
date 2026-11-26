@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rahulsaroj02/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Rahulsaroj02/LeetCode/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Rahulsaroj02/LeetCode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Rahulsaroj02/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Rahulsaroj02/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Rahulsaroj02/LeetCode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Rahulsaroj02/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahulsaroj02/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rahulsaroj02/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
