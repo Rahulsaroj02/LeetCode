@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahulsaroj02/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rahulsaroj02/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Rahulsaroj02/LeetCode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Rahulsaroj02/LeetCode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rahulsaroj02/LeetCode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/Rahulsaroj02/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Rahulsaroj02/LeetCode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rahulsaroj02/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rahulsaroj02/LeetCode/tree/master/0169-majority-element) |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Rahulsaroj02/LeetCode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,4 +132,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rahulsaroj02/LeetCode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Rahulsaroj02/LeetCode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Rahulsaroj02/LeetCode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
+## Segment Tree
+|  |
+| ------- |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Rahulsaroj02/LeetCode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
+## Merge Sort
+|  |
+| ------- |
+| [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Rahulsaroj02/LeetCode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
 <!---LeetCode Topics End-->
