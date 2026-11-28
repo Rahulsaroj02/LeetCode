@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rahulsaroj02/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Rahulsaroj02/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rahulsaroj02/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rahulsaroj02/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rahulsaroj02/LeetCode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Rahulsaroj02/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Rahulsaroj02/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rahulsaroj02/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Rahulsaroj02/LeetCode/tree/master/0231-power-of-two) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4099-minimum-operations-to-sort-with-locked-indices](https://github.com/Rahulsaroj02/LeetCode/tree/master/4099-minimum-operations-to-sort-with-locked-indices) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Rahulsaroj02/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
